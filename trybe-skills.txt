@@ -4,5 +4,10 @@ O que eu vou aprender na Trybe:
 - Bash
 - Git
 Já aprendendo! hehe
+<<<<<<< HEAD
 MAIS UMA MODIFICAÇÃO!!
 exclusivooo
+=======
+USUARIO2222222
+E ESSE MERGE AÍ??
+>>>>>>> Lucas2
